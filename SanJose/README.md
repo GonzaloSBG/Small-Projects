@@ -10,3 +10,5 @@ I can't upload the original Datasets for size issues, where from:
   Carcrash: https://data.sanjoseca.gov/dataset/crash-locations1
 
   Santa clara crime record: https://data.sccgov.org/Public-Safety/Crime-Reports/n9u6-aijz
+  
+To view the file with not the Github Trusted error with Folium maps use https://nbviewer.org/ 
